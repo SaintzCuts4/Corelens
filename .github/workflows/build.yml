@@ -19,4 +19,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: CoreLens-apk
-          path: CoreLens/app/build/outputs/apk/Release/app-Release.apk
+          path: CoreLens/app/build/outputs/apk/release/app-release.apk
